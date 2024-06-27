@@ -1,0 +1,9 @@
+# Exclude virtual environment files
+venv/
+
+# Exclude MacOS files
+.DS_Store
+
+# Exclude Python checkpoints
+*.pyc
+
